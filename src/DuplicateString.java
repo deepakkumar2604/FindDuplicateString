@@ -8,9 +8,6 @@ public class DuplicateString {
 
         DuplicateStringUsingForLoop(Names);
 
-
-
-
     }
 
     public static void DuplicateStringUsingForLoop(String str[]){
